@@ -1,5 +1,10 @@
 # STATIC
 
+vue+nuxtjs项目。
+nuxt generate命令生成的静态化文件，并提交在github pages上。
+
+本项目在pages上的地址：https://tangbei.github.io/vue_static/
+
 This directory contains your static files.
 Each file inside this directory is mapped to /.
 
